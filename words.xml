@@ -1,0 +1,56 @@
+<cards>
+    <card>SOA</card>
+    <card>XML</card>
+    <card>REST</card>
+    <card>RDF</card>
+    <card>OWL</card>
+    <card>SPARQL</card>
+    <card>Topic Map</card>
+    <card>J2EE</card>
+    <card>ESB</card>
+    <card>Big Data</card>
+    <card>MapReduce</card>
+    <card>Cloud</card>
+    <card>NoSQL</card>
+    <card>MySQL</card>
+    <card>Facebook app</card>
+    <card>Social Media API</card>
+    <card>Mashup</card>
+    <card>JavaScript</card>
+    <card>Ruby on Rails</card>
+    <card>Clojure</card>
+    <card>Scala</card>
+    <card>Erlang</card>
+    <card>Freemium</card>
+    <card>Self service</card>
+    <card>SOAP</card>
+    <card>Geolocation</card>
+    <card>Augmented Reality</card>
+    <card>Mobile platform</card>
+    <card>Tablet</card>
+    <card>Marketplace</card>
+    <card>Big Iron</card>
+    <card>Raspberry Pi</card>
+    <card>Quantum Computing</card>
+    <card>Large Hadron Collider </card>
+    <card>Grid Computing</card>
+    <card>BitTorrent</card>
+    <card>LAMP</card>
+    <card>Lolcats</card>
+    <card>Monetization strategy</card>
+    <card>User Generated Content</card>
+    <card>Near Field Communication</card>
+    <card>RS232</card>
+    <card>Data Science</card>
+    <card>Distributed Version Control</card>
+    <card>CMS</card>
+    <card>WAP push</card>
+    <card>Micropayments</card>
+    <card>Natural Language Processing</card>
+    <card>Sentiment Analysis</card>
+    <card>BitCoin</card>
+    <card>Gesture recognition</card>
+    <card>Biometrics</card>
+    <card>Kickstarter</card>
+    <card>Crowdsourcing</card>
+</cards>
