@@ -1,0 +1,53 @@
+<cards>
+<card><abbr>WAI-ARIA</abbr><description>Accessible Rich Internet Applications (WAI-ARIA)</description></card>
+<card><abbr>CC/PP</abbr><description>Composite Capability/Preference Profiles</description></card>
+<card><abbr>CSS</abbr><description>Cascading Style Sheets</description></card>
+<card><abbr>DCCI</abbr><description>Delivery Context: Client Interfaces</description></card>
+<card><abbr>DOM</abbr><description>Document Object Model</description></card>
+<card><abbr>EXI</abbr><description>Efficient XML Interchange</description></card>
+<card><abbr>EARL</abbr><description>Evaluation and Report Language</description></card>
+<card><abbr>GRDDL</abbr><description>Gleaning Resource Descriptions from Dialects of Languages</description></card>
+<card><abbr>HTML</abbr><description>Hypertext Markup Language</description></card>
+<card><abbr>HTTP</abbr><description>Hypertext Transfer Protocol</description></card>
+<card><abbr>httpRange-14</abbr><description></description></card>
+<card><abbr>InkML</abbr><description>Ink Markup Language</description></card>
+<card><abbr>MathML</abbr><description>Mathematical Markup Language</description></card>
+<card><abbr>OWL</abbr><description>Web Ontology Language</description></card>
+<card><abbr>P3P</abbr><description>Platform for Privacy Preferences</description></card>
+<card><abbr>PNG</abbr><description>Portable Network Graphics</description></card>
+<card><abbr>POWDER</abbr><description>Protocol for Web Description Resources</description></card>
+<card><abbr>RDF</abbr><description>Resource Description Framework</description></card>
+<card><abbr>RDFa</abbr><description>Resource Description Framework attributes</description></card>
+<card><abbr>RIF</abbr><description>Rule Interchange Format</description></card>
+<card><abbr>SML</abbr><description>Service Modeling Language</description></card>
+<card><abbr>SKOS</abbr><description>Simple Knowledge Organization System</description></card>
+<card><abbr>SMIL</abbr><description>Synchronized Multimedia Integration Language</description></card>
+<card><abbr>SOAP</abbr><description></description></card>
+<card><abbr>SPARQL</abbr><description>SPARQL Protocol and RDF Query Language</description></card>
+<card><abbr>SVG</abbr><description>Scalable Vector Graphics</description></card>
+<card><abbr>URI</abbr><description>Uniform Resource Identifier</description></card>
+<card><abbr>UAAG</abbr><description>User Agent Accessibility Guidelines</description></card>
+<card><abbr>VoiceXML</abbr><description>Voice XML</description></card>
+<card><abbr>WCAG</abbr><description>Web Content Accessibility Guidelines</description></card>
+<card><abbr>WS-Addressing</abbr><description>Web Services Addressing</description></card>
+<card><abbr>WS-Choreography</abbr><description>Web Services Choreography</description></card>
+<card><abbr>WS-Policy</abbr><description>Web Services Policy</description></card>
+<card><abbr>WebCGM</abbr><description>Web Computer Graphics Metafile</description></card>
+<card><abbr>WSDL</abbr><description>Web Service Definition Language</description></card>
+<card><abbr>XBL</abbr><description>XML Binding Language</description></card>
+<card><abbr>XForms</abbr><description></description></card>
+<card><abbr>XHTML 2</abbr><description>eXtensible HyperText Markup Language</description></card>
+<card><abbr>XInclude</abbr><description>XML Inclusions</description></card>
+<card><abbr>XLink</abbr><description>XML Linking Language</description></card>
+<card><abbr>XML</abbr><description>eXtensible Markup Language</description></card>
+<card><abbr>XML Canonicalization</abbr><description></description></card>
+<card><abbr>XML Encryption</abbr><description></description></card>
+<card><abbr>XProc</abbr><description>XML Pipeline Language</description></card>
+<card><abbr>XML Schema</abbr><description>XML Schema definition language </description></card>
+<card><abbr>XML Signature</abbr><description></description></card>
+<card><abbr>XPath</abbr><description>XML Path Language</description></card>
+<card><abbr>XPointer</abbr><description>XML Pointer Language</description></card>
+<card><abbr>XQuery</abbr><description>XML Query Language</description></card>
+<card><abbr>XSL-FO</abbr><description>eXtensible Stylesheet Language Formatting Objects</description></card>
+<card><abbr>XSLT</abbr><description>eXtensible Stylesheet Language</description></card>
+</cards>
