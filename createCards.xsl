@@ -36,6 +36,10 @@
         <block text-align="center" padding-top="5mm"><xsl:value-of select="."/></block>
     </xsl:template>
     
+    <xsl:template match="description">
+        <block text-align="center" padding-top="5mm" font-size="10pt" display-align="bottom"><xsl:value-of select="."/></block>
+    </xsl:template>
+    
     <xsl:attribute-set name="borders">
         
         <xsl:attribute name="border-top-color">black</xsl:attribute>

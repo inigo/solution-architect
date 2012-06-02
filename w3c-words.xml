@@ -29,9 +29,9 @@
 <card><abbr>UAAG</abbr><description>User Agent Accessibility Guidelines</description></card>
 <card><abbr>VoiceXML</abbr><description>Voice XML</description></card>
 <card><abbr>WCAG</abbr><description>Web Content Accessibility Guidelines</description></card>
-<card><abbr>WS-Addressing</abbr><description>Web Services Addressing</description></card>
-<card><abbr>WS-Choreo-graphy</abbr><description>Web Services Choreography</description></card>
-<card><abbr>WS-Policy</abbr><description>Web Services Policy</description></card>
+<card><abbr>WS-Addressing</abbr><description></description></card>
+<card><abbr>WS-Choreo-graphy</abbr><description></description></card>
+<card><abbr>WS-Policy</abbr><description></description></card>
 <card><abbr>WebCGM</abbr><description>Web Computer Graphics Metafile</description></card>
 <card><abbr>WSDL</abbr><description>Web Service Definition Language</description></card>
 <card><abbr>XBL</abbr><description>XML Binding Language</description></card>
@@ -43,7 +43,7 @@
 <card><abbr>XML Canonical-ization</abbr><description></description></card>
 <card><abbr>XML Encryption</abbr><description></description></card>
 <card><abbr>XProc</abbr><description>XML Pipeline Language</description></card>
-<card><abbr>XML Schema</abbr><description>XML Schema definition language </description></card>
+<card><abbr>XML Schema</abbr><description></description></card>
 <card><abbr>XML Signature</abbr><description></description></card>
 <card><abbr>XPath</abbr><description>XML Path Language</description></card>
 <card><abbr>XPointer</abbr><description>XML Pointer Language</description></card>
