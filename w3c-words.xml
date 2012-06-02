@@ -9,7 +9,7 @@
 <card><abbr>GRDDL</abbr><description>Gleaning Resource Descriptions from Dialects of Languages</description></card>
 <card><abbr>HTML</abbr><description>Hypertext Markup Language</description></card>
 <card><abbr>HTTP</abbr><description>Hypertext Transfer Protocol</description></card>
-<card><abbr>httpRange-14</abbr><description></description></card>
+<card><abbr>http Range-14</abbr><description></description></card>
 <card><abbr>InkML</abbr><description>Ink Markup Language</description></card>
 <card><abbr>MathML</abbr><description>Mathematical Markup Language</description></card>
 <card><abbr>OWL</abbr><description>Web Ontology Language</description></card>
@@ -30,17 +30,17 @@
 <card><abbr>VoiceXML</abbr><description>Voice XML</description></card>
 <card><abbr>WCAG</abbr><description>Web Content Accessibility Guidelines</description></card>
 <card><abbr>WS-Addressing</abbr><description>Web Services Addressing</description></card>
-<card><abbr>WS-Choreography</abbr><description>Web Services Choreography</description></card>
+<card><abbr>WS-Choreo-graphy</abbr><description>Web Services Choreography</description></card>
 <card><abbr>WS-Policy</abbr><description>Web Services Policy</description></card>
 <card><abbr>WebCGM</abbr><description>Web Computer Graphics Metafile</description></card>
 <card><abbr>WSDL</abbr><description>Web Service Definition Language</description></card>
 <card><abbr>XBL</abbr><description>XML Binding Language</description></card>
 <card><abbr>XForms</abbr><description></description></card>
-<card><abbr>XHTML 2</abbr><description>eXtensible HyperText Markup Language</description></card>
+<card><abbr>XHTML</abbr><description>eXtensible HyperText Markup Language</description></card>
 <card><abbr>XInclude</abbr><description>XML Inclusions</description></card>
 <card><abbr>XLink</abbr><description>XML Linking Language</description></card>
 <card><abbr>XML</abbr><description>eXtensible Markup Language</description></card>
-<card><abbr>XML Canonicalization</abbr><description></description></card>
+<card><abbr>XML Canonical-ization</abbr><description></description></card>
 <card><abbr>XML Encryption</abbr><description></description></card>
 <card><abbr>XProc</abbr><description>XML Pipeline Language</description></card>
 <card><abbr>XML Schema</abbr><description>XML Schema definition language </description></card>

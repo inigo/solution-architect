@@ -3,7 +3,7 @@ Solution architect - a storytelling game for consultants
 Building
 --------
 
-Apply the XSLT to the cards.xml to create XSL:FO, then process (e.g. with FOP) to produce a PDF. Print onto Avery L7165 labels (A4, 2 x 4). Stick labels onto playing cards.
+Apply the XSLT to the cards.xml to create XSL:FO, then process (e.g. with FOP) to produce a PDF. Print onto Avery J8160 labels (A4, 3 x 7). Stick labels onto playing cards.
 
 Rules
 -----
@@ -14,5 +14,8 @@ The customer describes their problem.
 
 Each vendor presents their solution in turn. When they use a phrase referenced on a card they hold, they add that card to their own solution stack in front of them. If the currently presenting vendor mentions a solution owned by another vendor, then the other vendor adds a card to the currently presenting vendor's stack.
 
-After all vendors have given their presentations, the customer accepts a solution stack and these technologies are discarded.
+After all vendors have given their presentations, the customer accepts a solution stack and these technologies are discarded, and won't be used again. There are no rules about which solution a customer must choose. It could be the funniest, the most technically correct, the one that uses their own beloved technology or the one they have been bribed to choose.
 
+At the end of the presentations, all vendors whose solution stack is not chosen must take all the cards in their own solution stack back into their own hand.
+
+A player may at any time trade any number of cards from their hand with any number of cards from another players hand as long as both players involved in the trade agree.
