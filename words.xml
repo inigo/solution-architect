@@ -7,12 +7,12 @@
     <card><abbr>SPARQL</abbr></card>
     <card><abbr>Topic Map</abbr></card>
     <card><abbr>J2EE</abbr></card>
-    <card><abbr>ESB</abbr></card>
+    <card><abbr>ESB</abbr><description>You wait ages for middleware, then 3 come along at once</description></card>
     <card><abbr>Big Data</abbr></card>
-    <card><abbr>Map Reduce</abbr></card>
+    <card><abbr>Map Reduce</abbr><description>Batch processing for the kidz</description></card>
     <card><abbr>Cloud</abbr></card>
     <card><abbr>NoSQL</abbr></card>
-    <card><abbr>Facebook app</abbr></card>
+    <card><abbr>Facebook app</abbr><description>"Like" this card</description></card>
     <card><abbr>Social Media API</abbr></card>
     <card><abbr>Mashup</abbr></card>
     <card><abbr>JavaScript</abbr></card>
@@ -24,31 +24,31 @@
     <card><abbr>XSpec</abbr></card>
     <card><abbr>SOAP</abbr></card>
     <card><abbr>Geo-location</abbr></card>
-    <card><abbr>Augmented Reality</abbr></card>
+    <card><abbr>Augmented Reality</abbr><description>Like the world after two beers</description></card>
     <card><abbr>Mobile platform</abbr></card>
     <card><abbr>Tablet</abbr></card>
-    <card><abbr>Big Iron</abbr></card>
+    <card><abbr>Big Iron</abbr><description>Large ironing board</description></card>
     <card><abbr>Raspberry Pi</abbr></card>
-    <card><abbr>Quantum Computing</abbr></card>
-    <card><abbr>Large Hadron Collider </abbr></card>
+    <card><abbr>Quantum Computing</abbr><description>Ctrl-Alt-Del when the wavefront collapses</description></card>
+    <card><abbr>Large Hadron Collider</abbr><description>Small hadrons need not apply</description></card>
     <card><abbr>Grid Computing</abbr></card>
     <card><abbr>BitTorrent</abbr></card>
     <card><abbr>LAMP</abbr></card>
-    <card><abbr>Lolcats</abbr></card>
-    <card><abbr>XSLT</abbr></card>
-    <card><abbr>User Generated Content</abbr></card>
-    <card><abbr>Near Field Comms</abbr></card>
-    <card><abbr>RS232</abbr></card>
-    <card><abbr>Data Science</abbr></card>
+    <card><abbr>Lolcats</abbr><description>I can haz lolz?</description></card>
+    <card><abbr>XSLT</abbr><description>Putting the "style" in stylesheet</description></card>
+    <card><abbr>User Generated Content</abbr><description>The idiocy of the masses</description></card>
+    <card><abbr>Near Field Comms</abbr><description>Lose your phone and your wallet together!</description></card>
+    <card><abbr>RS232</abbr><description>Invaluable for your ZX-81 cluster</description></card>
+    <card><abbr>Data Science</abbr><description>Or "Maths" as everyone else has called it for two millenia</description></card>
     <card><abbr>Distributed Version Control</abbr></card>
     <card><abbr>CMS</abbr></card>
     <card><abbr>WAP push</abbr></card>
     <card><abbr>Micro payments</abbr></card>
-    <card><abbr>Natural Language Processing</abbr></card>
-    <card><abbr>Sentiment Analysis</abbr></card>
-    <card><abbr>BitCoin</abbr></card>
-    <card><abbr>Gesture recognition</abbr></card>
-    <card><abbr>Biometrics</abbr></card>
-    <card><abbr>Kickstarter</abbr></card>
-    <card><abbr>Crowd sourcing</abbr></card>
+    <card><abbr>Natural Language Processing</abbr><description>GO NORTH. USE SWORD.</description></card>
+    <card><abbr>Sentiment Analysis</abbr><description>How do you feel about that?</description></card>
+    <card><abbr>BitCoin</abbr><description>Is it money if you can't roll in it?</description></card>
+    <card><abbr>Gesture recognition</abbr><description>What does a two-finger swipe mean?</description></card>
+    <card><abbr>Biometrics</abbr><description>Turning mugging into GBH</description></card>
+    <card><abbr>Kickstarter</abbr><description>The money of the masses</description></card>
+    <card><abbr>Crowd sourcing</abbr><description>The content of the masses</description></card>
 </cards>

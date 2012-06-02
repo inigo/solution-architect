@@ -41,7 +41,7 @@
     </xsl:template>
     
     <xsl:attribute-set name="borders">
-        
+        <!--
         <xsl:attribute name="border-top-color">black</xsl:attribute>
         <xsl:attribute name="border-top-style">solid</xsl:attribute>
         <xsl:attribute name="border-bottom-color">black</xsl:attribute>
@@ -50,7 +50,7 @@
         <xsl:attribute name="border-left-style">solid</xsl:attribute>
         <xsl:attribute name="border-right-color">black</xsl:attribute>
         <xsl:attribute name="border-right-style">solid</xsl:attribute>
-        
+        -->
     </xsl:attribute-set>
 
 </xsl:stylesheet>
