@@ -5,17 +5,23 @@ Building
 
 Apply the XSLT to the cards.xml to create XSL:FO, then process (e.g. with FOP) to produce a PDF. Print onto Avery J8160 labels (A4, 3 x 7). Stick labels onto playing cards.
 
+Source code is available at https://github.com/inigo/solution-architect.
+
 Rules
 -----
 
-One player is the customer, the other players are vendors.
+Each player is dealt a number of cards equal to the number of players in the game, plus one. The objective of the game is to get rid of all your cards.
+
+In each turn, one player is the customer, the other players are vendors. 
 
 The customer describes their problem.
 
-Each vendor presents their solution in turn. When they use a phrase referenced on a card they hold, they add that card to their own solution stack in front of them. If the currently presenting vendor mentions a solution owned by another vendor, then the other vendor adds a card to the currently presenting vendor's stack.
+Each vendor presents their solution in turn. When they use a phrase referenced on a card they hold, they add that card to their own solution stack in front of them. If the presenter mentions a solution owned by another vendor, then the other vendor adds that card to the presenter's stack. Once per presentation per vendor, another vendor may make a case for the presenter to include a particular technology in their stack, and the presenter may explain why that technology is not needed. The other vendors and the customer decide which player made the most convincing case, and if the technology is accepted, then it is placed in the presenter's solution stack.
 
 After all vendors have given their presentations, the customer accepts a solution stack and these technologies are discarded, and won't be used again. There are no rules about which solution a customer must choose. It could be the funniest, the most technically correct, the one that uses their own beloved technology or the one they have been bribed to choose.
 
 At the end of the presentations, all vendors whose solution stack is not chosen must take all the cards in their own solution stack back into their own hand.
 
 A player may at any time trade any number of cards from their hand with any number of cards from another players hand as long as both players involved in the trade agree.
+
+Happy Birthay Jeni!
